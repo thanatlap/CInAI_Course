@@ -12,7 +12,6 @@ This repository is a deep learning labs/exercises from begining to intermediate 
 </br>6. Text Sentimental using RNN-LSTM
 </br>7. Text Generation using RNN-LSTM
 </br>8. Variational Autoencoder
-</br>9. Reinforcement Learning - Part1
-</br>10.Reinforcement Learning - Part2
+</br>9. Reinforcement Learning - Q-learning
 
 
